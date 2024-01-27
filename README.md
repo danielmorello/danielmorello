@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @danielmorello
-- 👀 I’m interested in Backend, NodeJS, Javascript, Python
+- 👀 I’m interested in Backend, Java, NodeJS, Javascript, Python
 - 🌱 I’m currently learning NodeJS, Python, React, React Native
 - 💞️ I’m looking to collaborate on Backend
 - 📫 How to reach me danielmorello@gmail.com
